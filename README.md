@@ -2,7 +2,7 @@
 
 A responsive event management website where users can explore upcoming events, search and filter them, view details and register with validated forms.
 
-**Live demo:** https://kesarwani-09.github.io/Event-Management-Website/Features
+**Live demo:** https://kesarwani-09.github.io/Event-Management-Website
 
 * Hero section with live countdown to the next event
 * Event cards (name, date, venue, image, short description)
